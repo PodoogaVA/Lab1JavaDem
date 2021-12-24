@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab1 (JavaDem)</string>
+    <string name="text1">Привет!</string>
+    <string name="text2">Нажми меня!</string>
+    <string name="newtxt">Новый текст</string>
+</resources>
